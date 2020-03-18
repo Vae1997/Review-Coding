@@ -1,2 +1,2 @@
 # Review-Coding
-Just recorded for job hunting
+恶补基础知识+修炼动手能力
