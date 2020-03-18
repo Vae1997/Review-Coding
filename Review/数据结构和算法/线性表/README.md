@@ -5,3 +5,5 @@
 [LinkList.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E8%A1%A8/LinkList.cpp)：单链表存储结构以及基本操作
 
 [单链表VS顺序表.md](https://github.com/Vae1997/Review-Coding/blob/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E8%A1%A8/%E5%8D%95%E9%93%BE%E8%A1%A8VS%E9%A1%BA%E5%BA%8F%E8%A1%A8.md)：线性表两种基本结构对比
+
+[头指针VS头节点.md](https://github.com/Vae1997/Review-Coding/blob/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E8%A1%A8/%E5%A4%B4%E6%8C%87%E9%92%88VS%E5%A4%B4%E8%8A%82%E7%82%B9.md)：头指针和头节点的对比
