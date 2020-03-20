@@ -10,4 +10,6 @@
 
 [StaticLinkList.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E8%A1%A8/StaticLinkList.cpp)：静态链表实现，自测发现有隐蔽的错误:sob:有待后续进一步修改:muscle:
 
-:speech_balloon:[该教程的静态链表首尾元素均可赋值，与书上有所不同](http://data.biancheng.net/view/163.html)
+:speech_balloon:[该教程](http://data.biancheng.net/view/163.html)的静态链表首尾元素均可赋值，与书上有所不同
+
+[CircularLinkList.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E7%BA%BF%E6%80%A7%E8%A1%A8/CircularLinkList.cpp)：循环链表实现，基于单链表
