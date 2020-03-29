@@ -40,7 +40,9 @@ int main()
 					out += (level[i] - level[i - 1]) * tax[i-1];
 				}
 			}		
-			cout << "缴税总计：" << out << endl;
+			//四舍五入：+0.5取整
+			cout << "缴税总计：" << int(out+0.5) << endl;
+			//cout << "缴税总计：" << out << endl;
 		}
 		cout << "继续?(y/n):";
 		cin >> again;
