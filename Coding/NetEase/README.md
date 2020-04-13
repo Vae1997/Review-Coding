@@ -9,4 +9,6 @@
 
 [numberOfone.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/NetEase/numberOfone.cpp)：获取二进制1的个数
 
-以上题目来源[这里](https://www.nowcoder.com/test/21025600/summary)
+[numOfCut(参考).cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/NetEase/numOfCut(%E5%8F%82%E8%80%83).cpp)：不是自己的
+
+以上题目来源[网易游戏（互娱）2020校招在线笔试-游戏研发第一批](https://www.nowcoder.com/test/21025600/summary)
