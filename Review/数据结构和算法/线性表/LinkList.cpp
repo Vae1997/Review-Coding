@@ -114,7 +114,8 @@ Status insertLinkList(Node *list,int i,Node *e)
 	if (list->next == NULL)
 	{
 		cout << "单链表为空，初始化有" << MAXSIZE << "个节点的单链表......" << endl;
-		list = &initLinkList();
+		Node p = initLinkList();
+		list = &p;
 	}
 	
 	if (i > list->data)
@@ -165,7 +166,25 @@ Status clearList(Node *list)
 	}
 	return OK;
 }
-void main()
+//尾插
+void insertToEndOfLink(Node** pHead, int value)
+{
+	Node *newNode= new Node();
+	newNode->data=value;
+	newNode->next=NULL;
+	if(*pHead==NULL)
+	{
+		*pHead=newNode;
+	}else{
+		Node *p = *pHead;
+		while(p->next!=NULL)
+		{
+			p=p->next;
+		}
+		p->next=newNode;
+	}
+}
+int main()
 {
 	Node list = initLinkList();
 	printLinkList(&list);
@@ -178,8 +197,7 @@ void main()
 	{
 		Node *e = (Node *)malloc(sizeof(Node));
 		e->data = i;
-		insertLinkList(&list, i, e);
-		
+		insertLinkList(&list, i, e);	
 	}
 	printLinkList(&list);
 	Node *e = (Node *)malloc(sizeof(Node));
@@ -197,4 +215,10 @@ void main()
 	clearList(&list);
 	cout << "打印：" << endl;
 	printLinkList(&list);
+	cout<<"尾插法示例"<<endl;
+	Node* head = NULL;
+	insertToEndOfLink(&head, 1);	
+	insertToEndOfLink(&head, 10);
+	printLinkList(head);
+	return 0;
 }
