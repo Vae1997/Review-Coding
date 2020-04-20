@@ -4,3 +4,5 @@
 [copy_constructor.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/copy_constructor.cpp)：拷贝构造函数
 
 [copy_constructor2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/copy_constructor2.cpp)：作为函数返回值的对象调用拷贝构造的情况
+
+[type_conversion.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion.cpp)：四种类型转换关键字
