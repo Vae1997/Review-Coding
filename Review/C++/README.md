@@ -12,3 +12,5 @@
 [type_conversion_dynamic_cast.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion_dynamic_cast.cpp)：dynamic_cast类型转换详细说明，另外[这里](https://docs.microsoft.com/en-us/cpp/cpp/dynamic-cast-operator?view=vs-2019)对多重继承、虚继承的情况进一步举例说明
 
 [type_conversion_const_cast.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion_const_cast.cpp)：const_cast类型转换详细说明
+
+[type_conversion_reinterpret_cast.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion_reinterpret_cast.cpp)：reinterpret_cast类型转换
