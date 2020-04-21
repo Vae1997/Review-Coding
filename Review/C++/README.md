@@ -6,3 +6,5 @@
 [copy_constructor2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/copy_constructor2.cpp)：作为函数返回值的对象调用拷贝构造的情况
 
 [type_conversion.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion.cpp)：四种类型转换关键字，[参考1](http://c.biancheng.net/cpp/biancheng/view/3297.html)、[参考2](https://interview.huihut.com/#/?id=static_cast)、[参考3](https://docs.microsoft.com/en-us/cpp/cpp/casting-operators?view=vs-2019)
+
+[type_conversion_static_cast.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion_static_cast.cpp)：static_cast类型转换详细说明
