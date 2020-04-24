@@ -14,3 +14,5 @@
 [type_conversion_const_cast.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion_const_cast.cpp)：const_cast类型转换详细说明
 
 [type_conversion_reinterpret_cast.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/type_conversion_reinterpret_cast.cpp)：reinterpret_cast类型转换
+
+[sizeof.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/sizeof.cpp)：sizeof运算符相关
