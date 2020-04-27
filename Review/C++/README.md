@@ -18,3 +18,5 @@
 [sizeof.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/sizeof.cpp)：sizeof运算符相关
 
 [sizeof_struct_union.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/sizeof_struct_union.cpp)：struct和union的sizeof
+
+[object_model_single.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/object_model_single.cpp):对象模型的内存分布验证（单继承）
