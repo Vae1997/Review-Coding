@@ -24,3 +24,5 @@
 [object_model_multi.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/object_model_multi.cpp)：对象模型的内存分布验证（普通的多继承）
 
 其他情况：菱形继承、虚继承、虚拟菱形继承情况参考[图说C++对象模型](https://cloud.tencent.com/developer/article/1155155)
+
+[singleton.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/singleton.cpp)：c++的单例设计模式，单线程不安全
