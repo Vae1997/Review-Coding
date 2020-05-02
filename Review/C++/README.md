@@ -26,3 +26,5 @@
 其他情况：菱形继承、虚继承、虚拟菱形继承情况参考[图说C++对象模型](https://cloud.tencent.com/developer/article/1155155)
 
 [singleton.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/singleton.cpp)：c++的单例设计模式，单线程不安全
+
+[singletonC11.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Review/C%2B%2B/singletonC11.cpp)：c++11线程安全的单例设计模式
