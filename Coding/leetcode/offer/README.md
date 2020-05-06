@@ -7,8 +7,14 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 
 [No2_expand.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No2_expand.cpp)：面试题2最后扩展：可继承单例，使用模板的实现方法参考[C++可继承的单例基类模板](https://www.cnblogs.com/sunchaothu/p/10353507.html)
 
-[No3_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No3_v1.cpp)：[面试题3](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)，数组中重复的数字，常规解法（排序、哈希表）
+[面试题3](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)：数组中重复的数字
 
-[No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：[面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)，返回链表倒数第k个节点==>链表的第count-k个节点
+- [No3_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No3_v1.cpp)：常规解法（排序、哈希表）
 
-[No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：[面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)，返回链表倒数第k个节点==>快慢指针解法
+- [No3_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No3_v2.cpp)：改进解法（交换nums[i]和nums[nums[i]]）
+
+[面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
+
+- [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
+
+- [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
