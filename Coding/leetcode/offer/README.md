@@ -12,6 +12,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 - [No3_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No3_v2.cpp)：改进解法（交换nums[i]和nums[nums[i]]）
 - [No3_v3.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No3_v3.cpp)：不修改数组解法（辅助数组、二分法），注意二分法不能找到所有重复数字，数字范围为1~n，n+1个数
 
+[面试题4](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)：二维数组中的查找，本题与主站 [240 题](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)相同
+- [No4.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No4.cpp)：从右上角开判断
+
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
