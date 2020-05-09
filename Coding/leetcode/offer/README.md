@@ -15,6 +15,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 [面试题4](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)：二维数组中的查找，本题与主站 [240 题](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)相同
 - [No4.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No4.cpp)：从右上角开判断
 
+[面试题5](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/)：替换空格
+- [No5_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No5_v1.cpp)：借助辅助字符数组
+
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
