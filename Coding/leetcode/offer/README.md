@@ -22,6 +22,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 [面试题6](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)：从尾到头打印链表
 - [No6.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No6.cpp)：辅助数组、递归
 
+[面试题7](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/)：重建二叉树，本题与主站 [105 题](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)相同
+- [No7.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No7.cpp)：递归实现，[官方的迭代实现](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/solution/mian-shi-ti-07-zhong-jian-er-cha-shu-by-leetcode-s/)
+
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
