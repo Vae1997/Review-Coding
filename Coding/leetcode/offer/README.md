@@ -28,6 +28,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 [面试题8](https://www.nowcoder.com/questionTerminal/9023a0c988684a53960365b889ceaf5e)：二叉树中序遍历的下一个节点
 - [No8.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No8.cpp)：分情况讨论（有无右节点、有无父节点、是父节点的左/右孩子）
 
+[面试题9](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/)：双栈实现队列
+- [No9.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No9.cpp)：inStack负责插入、outStack负责删除
+
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
