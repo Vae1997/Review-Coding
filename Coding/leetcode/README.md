@@ -8,5 +8,6 @@
   - [No225_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No225_v2.cpp)：单队列实现
 - [主站232题](https://leetcode-cn.com/problems/implement-queue-using-stacks/)：双栈实现队列，[No232.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No232.cpp)
 - [主站589题](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)：N叉树的前序遍历，[No589.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No589.cpp)
+- [主站590题](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/submissions/)：N叉树的后序遍历，[No590.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No590.cpp)
 - [主站705题](https://leetcode-cn.com/problems/design-hashset/)：设计哈希集合，[No705.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No705.cpp)
 
