@@ -3,7 +3,7 @@
 /*
 https://www.cnblogs.com/eniac12/p/5329396
 */
-//希尔排序(leetcode通过)
+//希尔排序60 ms	15.7 MB
 // 分类 -------------- 内部比较排序
 // 数据结构 ---------- 数组
 // 最差时间复杂度 ---- 根据步长序列的不同而不同。已知最好的为O(n(logn)^2)
@@ -45,6 +45,21 @@ vector<int> sortArray(vector<int>& nums) {
             nums[start+gap]=num;
         }//当前轮，划分的每组插入排序结束，缩减增量
         gap=(gap-1)/3;
+    }
+    return nums;
+}
+//简化版本
+vector<int> sortArray(vector<int>& nums) {
+    int gap=1;
+    while (gap<nums.size()/3)gap=3*gap+1;
+    while (gap>=1)
+    {
+        for (int i = gap; i < nums.size(); i++)
+        {
+            for (int j = i; j>=gap && nums[j] < nums[j-gap]; j-=gap)
+                swap(nums[j],nums[j-gap]); 
+        }
+        gap/=3;
     }
     return nums;
 }
