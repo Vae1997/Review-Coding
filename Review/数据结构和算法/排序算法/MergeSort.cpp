@@ -63,6 +63,23 @@ vector<int> sortArray(vector<int>& nums) {
     MergeSortRecursion(nums,0,nums.size()-1);
     return nums;
 }
+//迭代实现
+vector<int> sortArray(vector<int>& nums) {
+    int left,mid,right;//归并的数组下标
+    for (int size = 1; size < nums.size(); size*=2)//每轮归并操作的数组大小
+    {
+        left=0;//每轮从下标0开始归并
+        while (left+size<nums.size())//右边数组还存在，可以进行归并
+        {
+            mid=left+size-1;//左边数组的末尾下标
+            //右侧数组长度够一个size，则右端下标为mid+size；否则为整个数组末尾
+            right=mid+size<nums.size()?mid+size:nums.size()-1;
+            Merge(nums,left,mid,right);//归并操作
+            left=right+1;//左侧数组起始位置变更
+        }
+    }
+    return nums;
+}
 int main()
 {
     vector<int> nums = {5,1,1,2,0,0};
