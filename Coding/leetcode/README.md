@@ -17,6 +17,7 @@
 - [主站559题](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/)：N叉树的最大深度，[No559.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No559.cpp)
 - [主站589题](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/)：N叉树的前序遍历，[No589.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No589.cpp)
 - [主站590题](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/submissions/)：N叉树的后序遍历，[No590.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No590.cpp)
+- [主站704题](https://leetcode-cn.com/problems/binary-search/)：二分查找算法，[No704.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No704.cpp)
 - [主站705题](https://leetcode-cn.com/problems/design-hashset/)：设计哈希集合，[No705.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No705.cpp)
 - [主站912题](https://leetcode-cn.com/problems/sort-an-array/)：排序数组，十大排序算法详见[这里](https://github.com/Vae1997/Review-Coding/tree/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
 
