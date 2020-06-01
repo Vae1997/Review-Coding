@@ -22,4 +22,5 @@
 - [主站704题](https://leetcode-cn.com/problems/binary-search/)：二分查找算法，[No704.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No704.cpp)
 - [主站705题](https://leetcode-cn.com/problems/design-hashset/)：设计哈希集合，[No705.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No705.cpp)
 - [主站912题](https://leetcode-cn.com/problems/sort-an-array/)：排序数组，十大排序算法详见[这里](https://github.com/Vae1997/Review-Coding/tree/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
+- [主站1095题](https://leetcode-cn.com/problems/find-in-mountain-array/)：山脉数组中查找目标值，[No1095.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No1095.cpp)
 
