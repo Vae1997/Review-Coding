@@ -36,10 +36,13 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 - [面试题10.2](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)：青蛙跳台
 
 [面试题11](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)：旋转数组的最小数字，同主站[153题](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/)、[154题](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-- [No11.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No11.cpp)，注意加入元素相等时的条件判断
+- [No11.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No11.cpp)：注意加入元素相等时的条件判断
 
 [面试题12](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)：矩阵中的路径，同主站[79题](https://leetcode-cn.com/problems/word-search/)
-- [No12.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No12.cpp)，回溯法解题
+- [No12.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No12.cpp)：回溯法解题
+
+[面试题13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/)：机器人的运动范围
+- [No13.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No13.cpp)：回溯法解题
 
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
