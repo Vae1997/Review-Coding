@@ -69,8 +69,22 @@ int cuttingRope(int n) {
     }
     return res;
 }
+//剪绳子2，数字范围1000以内
+//如果动态规划，还需处理大数求余，快速幂，循环求余等
+//参考：https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/solution/mian-shi-ti-14-ii-jian-sheng-zi-iitan-xin-er-fen-f/
+//因此直接贪心
+int cuttingRope(int n) {
+    if(n<=3)return n-1;
+    long int res=1;
+    while (n>4)
+    {
+        res*=3;
+        res%=1000000007;
+        n-=3;
+    }
+    return (res*n%1000000007);
+}
 int main()
 {
-   cout<<cuttingRope(4)<<endl;
    return 0;
 }
