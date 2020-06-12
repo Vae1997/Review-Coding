@@ -46,6 +46,7 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 
 [面试题14](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/)：剪绳子1，同主站[343题](https://leetcode-cn.com/problems/integer-break/)
 - [No14.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No14.cpp)：递归、动态规划、贪心
+- [面试题14.2](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof)：剪绳子2，需处理大数求余，也可以每次贪心的时候直接求余
 
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
