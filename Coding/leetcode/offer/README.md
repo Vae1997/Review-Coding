@@ -48,6 +48,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 - [No14.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No14.cpp)：递归、动态规划、贪心
 - [面试题14.2](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof)：剪绳子2，需处理大数求余，也可以每次贪心的时候直接求余
 
+[面试题15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)：二进制1的个数，同主站[191题](https://leetcode-cn.com/problems/number-of-1-bits/)
+- [No15.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No15.cpp)：n&(n-1)的次数
+
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
