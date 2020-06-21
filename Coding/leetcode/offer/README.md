@@ -51,6 +51,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 [面试题15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)：二进制1的个数，同主站[191题](https://leetcode-cn.com/problems/number-of-1-bits/)
 - [No15.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No15.cpp)：n&(n-1)的次数
 
+[面试题16](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)：数值的整数次方，同主站[50题](https://leetcode-cn.com/problems/powx-n/)
+- [No16.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No16.cpp)：快速幂+迭代
+
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
