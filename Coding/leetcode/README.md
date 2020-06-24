@@ -2,6 +2,7 @@
 ## 主站题目AC列表：
 - [主站8题](https://leetcode-cn.com/problems/string-to-integer-atoi/)：字符串转整数，[No8.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No.8.cpp)
 - [主站34题](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)：在排序数组中查找元素的第一个和最后一个位置，[No34.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No34.cpp)
+- [主站43题](https://leetcode-cn.com/problems/multiply-strings/)：字符串相乘，[No43.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No43.cpp)
 - [主站88题](https://leetcode-cn.com/problems/merge-sorted-array/)：合并排序数组，[No88.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No88.cpp)
 - [主站94题](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)：二叉树的中序遍历，[No94.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No94.cpp)
 - [主站102题](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)：二叉树的层序遍历，[No102.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No102.cpp)
