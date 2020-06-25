@@ -61,5 +61,8 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
 
+[面试题24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)：反转链表，同主站[206题](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [No24.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No24.cpp)：双指针
+
 [面试题64](https://leetcode-cn.com/problems/qiu-12n-lcof/)：求1+2+…+n
 - [No64.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No64.cpp)：包括多种解法（&&或||、构造函数、虚函数、函数指针）
