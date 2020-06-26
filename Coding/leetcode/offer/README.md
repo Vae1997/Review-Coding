@@ -57,6 +57,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 [面试题17](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)：打印从1到最大的n位数
 - [No17.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No17.cpp)：0~9全排列
 
+[面试题18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)：删除链表的节点，近似主站[237题](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+- [No18.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No18.cpp)：后一个节点值覆盖删除的节点
+
 [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)：返回链表倒数第k个节点
 - [No22_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v1.cpp)：直接返回链表的第count-k个节点
 - [No22_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No22_v2.cpp)：快慢指针解法
