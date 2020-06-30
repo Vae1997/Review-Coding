@@ -69,3 +69,7 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 
 [面试题64](https://leetcode-cn.com/problems/qiu-12n-lcof/)：求1+2+…+n
 - [No64.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No64.cpp)：包括多种解法（&&或||、构造函数、虚函数、函数指针）
+
+[面试题68](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/)：二叉树的最近公共祖先，同主站[236题](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+- [No68_v1.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No68_v1.cpp)：二叉搜索树，则根据左小右大，直到俩节点在root左右，同主站[235题](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
+- [No68_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No68_v2.cpp)：普通二叉树，先找路径，转化为俩链表公共节点
