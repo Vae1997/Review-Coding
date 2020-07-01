@@ -1,7 +1,8 @@
 # LeetCode
-## 主站题目AC列表：
+## 主站题目列表：
 - [主站8题](https://leetcode-cn.com/problems/string-to-integer-atoi/)：字符串转整数，[No8.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No.8.cpp)
 - [主站19题](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)：删除链表的倒数第N个节点，[No19.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No19.cpp)
+- [主站26题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)：删除排序数组重复项，[No26.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No26.cpp)
 - [主站34题](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)：在排序数组中查找元素的第一个和最后一个位置，[No34.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No34.cpp)
 - [主站43题](https://leetcode-cn.com/problems/multiply-strings/)：字符串相乘，[No43.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No43.cpp)
 -[主站82题](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/)：删除所有含有重复数字的节点，[No82.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No82.cpp)
