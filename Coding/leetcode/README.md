@@ -32,6 +32,7 @@
 - [主站590题](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/submissions/)：N叉树的后序遍历，[No590.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No590.cpp)
 - [主站704题](https://leetcode-cn.com/problems/binary-search/)：二分查找算法，[No704.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No704.cpp)
 - [主站705题](https://leetcode-cn.com/problems/design-hashset/)：设计哈希集合，[No705.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No705.cpp)
+- [主站718题](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray)：最长重复子数组，[No718.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No718.cpp)
 - [主站897题](https://leetcode-cn.com/problems/increasing-order-search-tree/)：递增顺序查找树，[No897.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No897.cpp)
 - [主站912题](https://leetcode-cn.com/problems/sort-an-array/)：排序数组，十大排序算法详见[这里](https://github.com/Vae1997/Review-Coding/tree/master/Review/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95)
 - [主站1002题](https://leetcode-cn.com/problems/find-common-characters/)：查找常用字符，[No1002.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No1002.cpp)
