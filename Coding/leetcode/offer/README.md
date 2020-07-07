@@ -67,6 +67,9 @@ leetcode上的剑指offer题目,[官方代码链接](https://github.com/zhedahht
 [面试题24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)：反转链表，同主站[206题](https://leetcode-cn.com/problems/reverse-linked-list/)
 - [No24.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No24.cpp)：双指针
 
+[面试题25](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)：合并两个排序的链表
+- [No25.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No25.cpp)：归并法，修改指针指向
+
 [面试题64](https://leetcode-cn.com/problems/qiu-12n-lcof/)：求1+2+…+n
 - [No64.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/offer/No64.cpp)：包括多种解法（&&或||、构造函数、虚函数、函数指针）
 
