@@ -28,6 +28,7 @@
   - [No225_v2.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No225_v2.cpp)：单队列实现
 - [主站232题](https://leetcode-cn.com/problems/implement-queue-using-stacks/)：双栈实现队列，[No232.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No232.cpp)
 - [主站278题](https://leetcode-cn.com/problems/first-bad-version/)：第一个错误的版本，[No278.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No278.cpp)
+- [主站315题](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)：计算右侧小于当前元素的个数，[No315.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No315.cpp)
 - [主站328题](https://leetcode-cn.com/problems/odd-even-linked-list/)：奇偶链表，[No328.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No328.cpp)
 - [主站378题](有序矩阵中第K小的元素)：有序矩阵第k小元素，[No378.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No378.cpp)
 - [主站415题](https://leetcode-cn.com/problems/add-strings/)：字符串相加，[No415.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No415.cpp)
