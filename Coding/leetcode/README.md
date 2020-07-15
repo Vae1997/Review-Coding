@@ -12,6 +12,7 @@
 - [主站88题](https://leetcode-cn.com/problems/merge-sorted-array/)：合并排序数组，[No88.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No88.cpp)
 - [主站92题](https://leetcode-cn.com/problems/reverse-linked-list-ii/)：反转链表 II，[No92.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No92.cpp)
 - [主站94题](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)：二叉树的中序遍历，[No94.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No94.cpp)
+- [主站96题](https://leetcode-cn.com/problems/unique-binary-search-trees/)：不同的二叉搜索树，[No96.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No96.cpp)
 - [主站102题](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/)：二叉树的层序遍历，[No102.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No102.cpp)
 - [主站104题](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)：二叉树的最大深度，[No104.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No104.cpp)
 - [主站107题](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)：二叉树的层序遍历II，在[No102.cpp](https://github.com/Vae1997/Review-Coding/blob/master/Coding/leetcode/No102.cpp)基础上反转数组
