@@ -34,7 +34,7 @@ void Heapify2(vector<int>& nums, int i, int size)
     if(max != i)//max==i表明当前已经满足最大堆定义
     {
         swap(nums[i],nums[max]);//将最大者和i节点交换
-        Heapify(nums,max,size);//max指向i节点，从i开始递归调整
+        Heapify(nums,max,size);//max指向i节点，从i开始递归，继续调整堆
     }
 }
 //迭代实现堆的调整
@@ -72,7 +72,7 @@ vector<int> sortArray(vector<int>& nums) {
     while (n>1)//n=1时，堆调整完毕
     {
         swap(nums[0],nums[--n]);//交换堆顶（最大元素）到末尾
-        Heapify(nums,0,n);//元素数--，继续调整堆顶到队尾
+        Heapify(nums,0,n);//元素数--，由于堆顶发生改变，需要从堆顶继续调整，构建堆
     }
     return nums;
 }
